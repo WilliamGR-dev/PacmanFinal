@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1019 1018.4" style="enable-background:new 0 0 1019 1018.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#D8DB3E;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#2F4798;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1019" height="1018.4"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<line class="st1" x1="1018.4" y1="411.7" x2="1018.4" y2="508.5"/>
+		<line class="st1" x1="0" y1="411.7" x2="0" y2="508.5"/>
+		<polyline class="st2" points="0,411.7 206.5,411.7 206.5,310.8 0,310.8 0,0.3 1019,0.3 1019,310.6 813.9,310.6 813.9,411.7 
+			1019,411.7 		"/>
+		<polyline class="st2" points="0,508.5 206.5,508.5 206.5,608 0,608 0,1018.1 1019,1018.1 1019,614.4 813.9,612.7 813.9,508.5 
+			1019,508.5 		"/>
+		<line class="st2" x1="509.5" y1="0.3" x2="509.5" y2="104.2"/>
+		<line class="st2" x1="98.9" y1="104.2" x2="202.5" y2="104.2"/>
+		<line class="st2" x1="304.1" y1="104.2" x2="407.6" y2="104.2"/>
+		<line class="st2" x1="610.8" y1="104.2" x2="712.3" y2="104.2"/>
+		<line class="st2" x1="813.9" y1="104.2" x2="915.5" y2="104.2"/>
+		<polyline class="st2" points="304.1,210.5 304.1,310.6 304.1,410.7 		"/>
+		<line class="st2" x1="407.6" y1="310.6" x2="304.1" y2="310.6"/>
+		<line class="st2" x1="98.9" y1="197.7" x2="202.5" y2="197.7"/>
+		<line class="st2" x1="813.9" y1="197.7" x2="915.5" y2="197.7"/>
+		<line class="st2" x1="712.3" y1="204.1" x2="712.3" y2="417.1"/>
+		<line class="st2" x1="610.8" y1="310.6" x2="712.3" y2="310.6"/>
+		<line class="st2" x1="407.6" y1="197.7" x2="610.8" y2="197.7"/>
+		<line class="st2" x1="509.2" y1="304.2" x2="509.5" y2="197.7"/>
+		<line class="st2" x1="407.6" y1="615.7" x2="610.8" y2="615.7"/>
+		<line class="st2" x1="509.2" y1="722.2" x2="509.5" y2="615.7"/>
+		<line class="st2" x1="407.6" y1="814.8" x2="610.8" y2="814.8"/>
+		<line class="st2" x1="509.2" y1="921.3" x2="509.5" y2="814.8"/>
+		<line class="st2" x1="406.3" y1="921.3" x2="98.9" y2="921.3"/>
+		<line class="st2" x1="304.8" y1="814.8" x2="304.5" y2="921.3"/>
+		<line class="st2" x1="915.5" y1="921.3" x2="611" y2="921.3"/>
+		<line class="st2" x1="712.5" y1="814.8" x2="712.2" y2="921.3"/>
+		<polygon class="st2" points="407.6,410.7 471.4,410.7 610.8,410.7 610.8,509.5 407.6,509.5 		"/>
+		<line class="st2" x1="304.1" y1="509.5" x2="304.1" y2="615.7"/>
+		<line class="st2" x1="712.3" y1="509.5" x2="712.3" y2="615.7"/>
+		<line class="st2" x1="98.9" y1="814.8" x2="0" y2="814.8"/>
+		<line class="st2" x1="915.5" y1="814.8" x2="1019" y2="814.8"/>
+		<polyline class="st2" points="915.5,709.3 813.9,709.3 813.9,814.8 		"/>
+		<line class="st2" x1="610.8" y1="709.3" x2="712.2" y2="709.3"/>
+		<polyline class="st2" points="98.9,709.3 202.5,709.3 202.5,814.8 		"/>
+		<line class="st2" x1="304.8" y1="709.3" x2="407.6" y2="709.3"/>
+	</g>
+</g>
+</svg>
